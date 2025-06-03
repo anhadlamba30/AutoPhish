@@ -3,7 +3,9 @@ AutoPhish is an AI-powered email classification prototype that detects phishing 
 
 ## 📷 Demo
 
-![AutoPhish Screenshot](screenshots/phishing_detected.png)
+![Phising example](screenshots/Not_Phishing_1.png)
+![Non-Phishing example](screenshots/Phishing_1.png)
+
 
 ## 🚀 Features
 
