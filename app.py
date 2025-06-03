@@ -33,7 +33,7 @@ def call_llm(email_text):
 
 # Streamlit UI
 st.set_page_config(page_title="AutoPhish", page_icon="🛡️")
-st.title("🛡️ AutoPhish - Email Phishing Detector")
+st.title("🛡️ AutoPhish - Intelligent Email Threat Classifier")
 
 email_input = st.text_area("📧 Paste Email Content Here:", height=250)
 
