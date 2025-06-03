@@ -31,3 +31,18 @@ AutoPhish is an AI-powered email classification prototype that detects phishing 
 git clone https://github.com/yourusername/autophish.git
 cd autophish
 streamlit run app.py
+```
+
+## 🧭 Future Vision
+
+AutoPhish isn't just a demo — it's a security assistant roadmap.
+
+- 🧩 Outlook Plugin: Direct integration with enterprise Outlook environments
+
+- 🛠️ Tool-Calling LLM: To trigger actions like auto-reply, quarantine, IT report
+
+- 🧠 Agentic Workflows: The LLM can remember flagged threads and user patterns
+
+- 🗂️ Archival & Search: Automatic archiving and tagging of safe conversations
+
+- 🌐 SOC Integration: Plug into existing security orchestration systems (SOAR)
