@@ -45,4 +45,6 @@ streamlit run app.py
 
 - 🗂️ Archival & Search: Automatic archiving and tagging of safe conversations
 
+- 🌃 Multimodal support : Enhancing understanding by accepting image/attachment inputs too
+
 - 🌐 SOC Integration: Plug into existing security orchestration systems (SOAR)
