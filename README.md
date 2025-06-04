@@ -43,7 +43,7 @@ AutoPhish isn't just a demo — it's a security assistant roadmap.
 
 - 🛠️ Tool-Calling LLM: To trigger actions like auto-reply, quarantine, IT report
 
-- 🧠 Agentic Workflows: The LLM can remember flagged threads and user patterns
+- 🧠 MCP server integration: The LLM can directly have access to the emails and tools for further actions
 
 - 🗂️ Archival & Search: Automatic archiving and tagging of safe conversations
 
