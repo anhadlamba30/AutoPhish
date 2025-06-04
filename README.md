@@ -37,8 +37,6 @@ streamlit run app.py
 
 ## 🧭 Future Vision
 
-AutoPhish isn't just a demo — it's a security assistant roadmap.
-
 - 🧩 Outlook Plugin: Direct integration with enterprise Outlook environments
 
 - 🛠️ Tool-Calling LLM: To trigger actions like auto-reply, quarantine, IT report
