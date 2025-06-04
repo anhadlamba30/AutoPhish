@@ -18,7 +18,7 @@ AutoPhish is an AI-powered email classification prototype that detects phishing 
 ## 🧠 How It Works
 
 - Built with **Streamlit** for rapid prototyping.
-- Email content is passed to an **LLM)** running on an **OpenAI Comptible Endpoint**
+- Email content is passed to an **LLM** running on an **OpenAI Comptible Endpoint**
 - The model returns a one-word decision: `"Phishing"` or `"Not Phishing"`.
 
 ## 🔧 Tech Stack
